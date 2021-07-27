@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+}
+
+.margen {
+  margin: 100px;
+}
+.tabla {
+  width: 100%;
+  text-align: left;
+}
+.tabla td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+/* 
+.tabla tbody tr:hover {
+  color: rgb(255, 255, 255);
+  text-shadow: 0px 0px 3px rgb(10, 12, 9);
+  background-color: #253a46;
+} */
+
+#Menu {
+  background-color: #253a46;
+  padding: 20px;
+  font-size: 20px;
+}
+
+#Menu a {
+  color: white;
+  padding-right: 50px;
+  text-decoration: none;
+}
+
+#Menu a:hover {
+  color: aquamarine;
+}
+
+.center {
+  text-align: center;
+}
+.rojo {
+  color: red;
+}
+.pub_titulo {
+  border-top: 1px solid black;
+  cursor: pointer;
+}
+li {
+  margin: 15px 0px 15px 0px;
+  text-align: justify;
+}
+.contenedor_tareas {
+  font-size: 20px;
+  margin-left: 50px;
+  margin-bottom: 70px;
+}
+.m_left {
+  margin-left: 20px;
+}
